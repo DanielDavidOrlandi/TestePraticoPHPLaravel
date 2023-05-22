@@ -1,0 +1,26 @@
+[
+    {
+        "instituicaoFinanceira": "Banco ATR SA",
+        "modalidadeCredito": "crédito pessoal",
+        "valorAPagar": 117175.97,
+        "valorSolicitado": 18250,
+        "taxaJuros": 0.0395,
+        "qntParcelas": 48
+    },
+    {
+        "instituicaoFinanceira": "Financeira Assert",
+        "modalidadeCredito": "Saque FGTS",
+        "valorAPagar": 69250.12,
+        "valorSolicitado": 6250,
+        "taxaJuros": 0.0409,
+        "qntParcelas": 60
+    },
+    {
+        "instituicaoFinanceira": "Financeira Assert",
+        "modalidadeCredito": "crédito pessoal",
+        "valorAPagar": 399207.27,
+        "valorSolicitado": 21250,
+        "taxaJuros": 0.0501,
+        "qntParcelas": 60
+    }
+]

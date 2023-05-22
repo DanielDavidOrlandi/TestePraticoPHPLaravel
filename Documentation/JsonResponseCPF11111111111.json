@@ -1,0 +1,26 @@
+[
+    {
+        "instituicaoFinanceira": "Banco PingApp",
+        "modalidadeCredito": "crédito consignado",
+        "valorAPagar": 44796.84,
+        "valorSolicitado": 19250,
+        "taxaJuros": 0.0118,
+        "qntParcelas": 72
+    },
+    {
+        "instituicaoFinanceira": "Financeira Assert",
+        "modalidadeCredito": "crédito pessoal",
+        "valorAPagar": 39122.33,
+        "valorSolicitado": 7000,
+        "taxaJuros": 0.0365,
+        "qntParcelas": 48
+    },
+    {
+        "instituicaoFinanceira": "Banco PingApp",
+        "modalidadeCredito": "crédito pessoal",
+        "valorAPagar": 81329.34,
+        "valorSolicitado": 8000,
+        "taxaJuros": 0.0495,
+        "qntParcelas": 48
+    }
+]

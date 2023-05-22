@@ -1,0 +1,26 @@
+[
+    {
+        "instituicaoFinanceira": "Banco ATR SA",
+        "modalidadeCredito": "crédito consignado",
+        "valorAPagar": 203590.95,
+        "valorSolicitado": 58130,
+        "taxaJuros": 0.0105,
+        "qntParcelas": 120
+    },
+    {
+        "instituicaoFinanceira": "Banco PingApp",
+        "modalidadeCredito": "crédito pessoal",
+        "valorAPagar": 42957.54,
+        "valorSolicitado": 21250,
+        "taxaJuros": 0.0118,
+        "qntParcelas": 60
+    },
+    {
+        "instituicaoFinanceira": "Banco PingApp",
+        "modalidadeCredito": "Saque FGTS",
+        "valorAPagar": 154800.88,
+        "valorSolicitado": 25250,
+        "taxaJuros": 0.0385,
+        "qntParcelas": 48
+    }
+]
